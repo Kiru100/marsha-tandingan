@@ -6,7 +6,7 @@ import "./app.css";
 function App() {
 
   return (
-        <ReactPlayer url={video} controls={true} height="100vh" width="100%" />
+        <ReactPlayer url={video} controls={true} height="100vh" width="100%"  />
   )
 }
 
